@@ -1,5 +1,5 @@
 <p align="center">
-<img title="vidur" src='https://github.com/ChiragKParmar/vidur/blob/master/img/vidur_logo.png' width="200px"/>
+<img title="vidur" src='https://github.com/ChiragKParmar/vidur/blob/master/img/vidur_logo.png'/>
 </p>
 
 Generating JSONPath from Json blob. 
