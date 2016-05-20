@@ -36,7 +36,7 @@ python generate_jsonpath.py ./example/nested_example.json
     "$['type']"]
 ```
 
-### Tested on Python 2.7.8
+#### Tested on Python 2.7.8
 
 More Updates Coming Soon! 
 ---------------------------------
